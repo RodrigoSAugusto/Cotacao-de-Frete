@@ -3,16 +3,6 @@
 
 Este repositório contém o código-fonte de um sistema desenvolvido para o ERP Protheus, utilizando ADVPL no back-end e JavaScript, HTML e CSS no front-end. O objetivo do sistema é gerenciar solicitações de cotação de frete, integrando-se perfeitamente com o ambiente do Protheus.
 
-📑 Índice
-Descrição
-Funcionalidades
-Tecnologias Utilizadas
-Requisitos
-Instalação
-Como Usar
-Contribuição
-Licença
-
 📝 Descrição
 O sistema de Solicitações de Cotação de Frete permite aos usuários do ERP Protheus realizar e gerenciar de maneira eficiente as solicitações de cotação de frete. A integração com o Protheus garante que todas as informações estejam centralizadas e acessíveis dentro do ambiente do ERP.
 
