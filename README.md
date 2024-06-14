@@ -11,26 +11,28 @@ O sistema de Solicitações de Cotação de Frete permite aos usuários do ERP P
 📋 Listagem de cotações recebidas.
 🔗 Integração completa com o ERP Protheus.
 🖥️ Interface amigável e responsiva.
+
 💻 Tecnologias Utilizadas
 Back-end: ADVPL
 Front-end: JavaScript, HTML, CSS
+
 📋 Requisitos
 Protheus: Versão mínima 12.1.17
-Servidor: TOTVS Application Server (TDS)
 
 ⚙️ Instalação
 Compilar os fonte no seu ambiente Protheus.
 Criar uma tabela no banco com os seguintes campos:
 ![image](https://github.com/RodrigoSAugusto/Cotacao-de-Frete/assets/81340066/01c69f51-8940-4342-a065-58e8d501a307)
-E por fir criar um atalho no menu que deseja disponibilizar os acessos.
+
+E por fim criar um atalho no menu que deseja disponibilizar os acessos.
 Compile os arquivos do front-end (JavaScript, HTML e CSS) no apo.
 Configure o ambiente conforme necessário, ajustando os parâmetros de integração com o Protheus.
 
 🚀 Como Usar
 Acesse o módulo do menu onde cadastrouo sistema de cotações no Protheus.
 Crie uma nova solicitação de cotação de frete preenchendo as informações requeridas.
-Aguarde o recebimento das cotações das transportadoras.
-Compare as cotações recebidas e selecione a opção mais vantajosa.
+Aguarde o responável realizar as cotações nas transportadoras e preencher as informações faltantes.
+
 🤝 Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
 
@@ -41,5 +43,3 @@ Push para a branch (git push origin feature/nova-feature)
 Abra um Pull Request
 📄 Licença
 Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para mais detalhes.
-
-Feito com ❤️ pela Sua Empresa
